@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+
+	<bean id="studentDao" class="test.dao.StudentDao"></bean>
+
+	<bean id="userDao" class="test.dao.UserDao"></bean>
+	
+
+</beans>
